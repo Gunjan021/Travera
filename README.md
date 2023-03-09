@@ -6,7 +6,7 @@ A Hotel Booking UI Flutter project.
 
 Flutter SDK\
 Dart\
-Firebase\
+Firebase
 
 ## ScreenShots
 ![Untitled design](https://user-images.githubusercontent.com/76468176/223998821-7a074dd9-9b95-41dd-849d-af5f7c0ee1d5.png)
