@@ -1,8 +1,12 @@
-# hotel
+# Travera
 
-A new Flutter project.
+A Hotel Booking UI Flutter project.
 
-## Getting Started
+## TEchnology Used
+
+Flutter SDK
+Dart
+Firebase
 
 This project is a starting point for a Flutter application.
 
